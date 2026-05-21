@@ -1,0 +1,3 @@
+com\mycompany\action\Action.class
+com\mycompany\action\Action$sum.class
+com\mycompany\action\Action$mult.class
